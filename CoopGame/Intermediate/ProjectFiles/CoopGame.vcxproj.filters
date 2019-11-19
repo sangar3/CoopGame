@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CoopGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{85EFF2CE-BDB1-4123-82A1-6315EC2ED76E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CoopGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CoopGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{56560229-8046-45AB-9418-3CB86D92A2CE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{0279C8A6-FEAA-443E-A736-8C20C177F278}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{23900424-A200-41C8-8696-5FDE4F8B3344}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{8B7390E9-AF96-4A5C-A30A-88934A518A09}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{41F10510-78B3-435F-AABE-6D0780BD5B71}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{4C997044-BC43-49DA-9BDA-0F3385D1592F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{A01FFB40-F7E1-4B2B-8CBD-0AEE26B0C0A1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{6D87DC59-7EA2-4AF9-B29F-977B461A34A1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{4CC8E98E-87EB-4170-A27D-DC55BCE1782E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\CoopGame">
+      <UniqueIdentifier>{7E0E275B-0D8D-46B2-87AA-9A380F4880E8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CoopGame\CoopGame.Build.cs">
+      <Filter>Source\CoopGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CoopGame\CoopGame.cpp">
+      <Filter>Source\CoopGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoopGame\CoopGame.h">
+      <Filter>Source\CoopGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CoopGame\CoopGameGameModeBase.cpp">
+      <Filter>Source\CoopGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoopGame\CoopGameGameModeBase.h">
+      <Filter>Source\CoopGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
